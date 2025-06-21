@@ -6,7 +6,7 @@ Uses OpenAI's API to embed and compare similarity of text using the `text-embedd
 
 
 ## Screenshots
-
+![Ember screenshot](https://github.com/drew-myers/ember/blob/8b2a398ac050011f1e8bbe9f3e2445ed3428d35a/ember_screen.png)
 
 ## Installation
 
