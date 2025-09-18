@@ -2,6 +2,8 @@
 
 A terminal-based text embeddings demonstration tool that showcases how semantic similarity works using OpenAI's text embedding models.
 
+This is a vibe-coded toy app I built for a presentation on how vector-based text similarity works.
+
 Uses OpenAI's API to embed and compare similarity of text using the `text-embedding-3-small` model and cosine similarity.
 
 
